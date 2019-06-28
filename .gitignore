@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# OBJ Data files
+VoronoiData/
+
+# Pycharm system folder
+.idea/
+
 # C extensions
 *.so
 
